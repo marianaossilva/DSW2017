@@ -13,6 +13,7 @@ From this dataset, two sub-datasets were created:
 - The second presents three co-authorship social networks built using the snowball sampling technique.
 
 <img src="icon.png" align="right" />
+
 ### Dataset Statistics
 
 ---
