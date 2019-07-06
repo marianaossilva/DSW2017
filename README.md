@@ -1,4 +1,8 @@
-# Datasets-DSW
+<img src="database.svg" align="right" />
+
+# DSW 2018 - DATASET SHOWCASE WORKSHOP ![GitHub repo size](https://img.shields.io/github/repo-size/marianaossilva/DSW2019.svg?color=d43f3a)
+
+> DeduDLB - Deduplication of Names and Co-Authoring Networks in the DBLP
 
 ## Dataset Information
 
@@ -18,6 +22,6 @@ If you would like to use the datasets, please cite our paper [1].
 
 ## Files
 
-* [DBLP](https://github.com/marianaossilva/Datasets-DSW/tree/master/DBLP) - Contains the original dataset collected from DBLP
-* [DBLP_name_desambiguation](https://github.com/marianaossilva/Datasets-DSW/tree/master/DBLP_name_desambiguation) - Contains collected data with ambiguous names resolved
-* [DBLP_social_networks](https://github.com/marianaossilva/Datasets-DSW/tree/master/DBLP_social_networks) - Contains three co-authorship social networks
+* [DBLP](https://drive.google.com/open?id=0BxcdZUa_SVMcdzhLeWJuREd0UW8) - Contains the original dataset collected from DBLP
+* [DBLP_name_desambiguation](https://drive.google.com/open?id=0BxcdZUa_SVMcUWhia01EUDVTY0U) - Contains collected data with ambiguous names resolved
+* [DBLP_social_networks](https://drive.google.com/open?id=0BxcdZUa_SVMcVTI4WnhscTNESnM) - Contains three co-authorship social networks
