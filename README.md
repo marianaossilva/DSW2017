@@ -22,7 +22,6 @@ Authors | 1,779,971
 Publications in proceedings | 31,549
 Publications in inproceedings | 1,861,226
 Relation between authors and publications | 9,707,161
---- | ---
 **Total** | **14,884,927**
 ---
 
