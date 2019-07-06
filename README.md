@@ -12,6 +12,20 @@ From this dataset, two sub-datasets were created:
 - The first has the original database collected from the DBLP with name deduplication treatment.
 - The second presents three co-authorship social networks built using the snowball sampling technique.
 
+## Dataset Statistics
+
+---
+**Data** | **# Records**
+--- | ---
+Publications in articles | 1,505,020
+Authors | 1,779,971
+Publications in proceedings | 31,549
+Publications in inproceedings | 1,861,226
+Relation between authors and publications | 9,707,161
+--- | ---
+**Total** | **14,884,927**
+---
+
 ## Source (citation)
 
 [1] Mariana O. Silva, Michele A. Brandão. “Deduplicação de Nomes e Redes de Co-autoria na DBLP”. Em: SBBD Dataset Showcase Workshop, pp. 203-211. Uberlândia, MG.
