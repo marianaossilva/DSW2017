@@ -12,7 +12,7 @@ From this dataset, two sub-datasets were created:
 - The first has the original database collected from the DBLP with name deduplication treatment.
 - The second presents three co-authorship social networks built using the snowball sampling technique.
 
-<img src="icon2.png" align="right" />
+<img src="icon2.png" align="left" />
 
 ### Dataset Statistics
 
