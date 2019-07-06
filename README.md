@@ -1,6 +1,6 @@
-<img src="database.svg" align="right" />
+<img src="icon.png" align="right" />
 
-# DSW 2018 - DATASET SHOWCASE WORKSHOP ![GitHub repo size](https://img.shields.io/github/repo-size/marianaossilva/DSW2019.svg?color=d43f3a)
+# DSW 2017 - DATASET SHOWCASE WORKSHOP ![GitHub repo size](https://img.shields.io/github/repo-size/marianaossilva/DSW2017.svg?color=d43f3a)
 
 > DeduDLB - Deduplication of Names and Co-Authoring Networks in the DBLP
 
